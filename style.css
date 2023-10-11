@@ -23,3 +23,10 @@ h2 {
 h3 {
     font-family: Georgia, sans-serif;
 }
+
+.homepage {
+    border: 8px;
+    border-style: groove;
+    border-color: rgb(24, 116, 207);
+    padding: 20px;
+}
